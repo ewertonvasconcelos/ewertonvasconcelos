@@ -19,4 +19,4 @@ Atualmente a cursar **Gestão de TI na Estácio**, foco-me na otimização de pr
 ## 📫 Contacto
 * **Localização:** Arujá, SP
 * **Objetivo:** Projetos de infraestrutura com foco em escalabilidade e segurança.
-*
+
