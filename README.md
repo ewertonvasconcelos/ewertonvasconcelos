@@ -30,4 +30,4 @@ Minha transição para **Business Intelligence** é sustentada por uma base sól
 * **Localização:** Arujá, SP
 * **LinkedIn:** [Seu Link do LinkedIn Aqui]
 * **Objetivo:** Contribuir com projetos de BI e Infraestrutura que unam tecnologia de ponta e propósito institucional.
-*
+
