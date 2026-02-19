@@ -43,6 +43,6 @@ Ferramenta de diagnóstico e otimização de sistemas, agora disponível para **
 ## 📬 Conecte-se comigo
 
 📍 Arujá, SP - Brasil  
-📧 [seuemail@dominio.com](mailto:seuemail@dominio.com)  
+📧 [seuemail@dominio.com](mailto:ewerton@consertop6.com)  
 🔗 [LinkedIn](https://linkedin.com/in/ewertonvasconcelos)  
 🌐 [consertop6.com](http://consertop6.com)
