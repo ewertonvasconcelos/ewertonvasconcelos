@@ -10,7 +10,7 @@ Com mais de 12 anos de experiência técnica e uma década de atuação instituc
 
 | Área | Tecnologias |
 |------|-------------|
-| **Sistemas & Infra** | Administração Windows Server (AD, DNS, DHCP), Linux (Fedora, Solus, openSUSE) |
+| **Sistemas & Infra** | Administração Windows Server (AD, DNS, DHCP), Linux (Fedora, Solus, openSUSE, KDE Linux) |
 | **Automação** | Shell Scripting Avançado, Python para Automação de UI (CustomTkinter) |
 | **Dados & BI** | Transformação de logs técnicos em Dashboards para tomada de decisão |
 | **Governança** | Gestão de Infraestrutura focada em continuidade de negócio |
@@ -43,6 +43,6 @@ Ferramenta de diagnóstico e otimização de sistemas, agora disponível para **
 ## 📬 Conecte-se comigo
 
 📍 Arujá, SP - Brasil  
-📧 [Gmail](mailto:ewerton@consertop6.com)  
+📧 [ewerton@consertop6.com](mailto:ewerton@consertop6.com)  
 🔗 [LinkedIn](https://linkedin.com/in/ewertonvasconcelos)  
 🌐 [consertop6.com](http://consertop6.com)
