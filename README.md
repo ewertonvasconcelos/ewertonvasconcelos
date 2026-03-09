@@ -6,6 +6,28 @@
 
 ---
 
+## ⚡ Projeto em Destaque: SpeedScan
+
+<div align="center">
+  <a href="https://github.com/ewertonvasconcelos/speedscan">
+    <img src="https://raw.githubusercontent.com/ewertonvasconcelos/speedscan/main/screenshots/dashboard.png" alt="SpeedScan Dashboard" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <br>
+  <strong>📊 Dashboard em tempo real • 🚀 Otimização com IA • 🌐 Análise de rede</strong>
+  <br><br>
+  <a href="https://github.com/ewertonvasconcelos/speedscan">
+    <img src="https://img.shields.io/github/stars/ewertonvasconcelos/speedscan?style=social" alt="Stars"/>
+  </a>
+  <a href="https://github.com/ewertonvasconcelos/speedscan/releases">
+    <img src="https://img.shields.io/github/v/release/ewertonvasconcelos/speedscan" alt="Version"/>
+  </a>
+  <a href="https://github.com/ewertonvasconcelos/speedscan/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ewertonvasconcelos/speedscan" alt="License"/>
+  </a>
+</div>
+
+---
+
 #### 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
